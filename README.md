@@ -33,7 +33,7 @@ This repository contains my solutions for **Assignment 1** and **Assignment 2** 
 
 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/CISC223-W25.git](https://github.com/johnnietse/software-specifications.git)
+git clone https://github.com/johnnietse/software-specifications.git
 ```
 
 2. cd to the problem directory and run the script
