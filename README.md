@@ -53,6 +53,7 @@ python main.py
 ```
 
 - Problem 6: Email Validator
+  
 i. Navigate to the problem directory:
 
 ```bash 
