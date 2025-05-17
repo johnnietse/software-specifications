@@ -36,7 +36,7 @@ This repository contains my solutions for **Assignment 1** and **Assignment 2** 
 git clone https://github.com/yourusername/CISC223-W25.git
 ```
 
-2. cd to the problem directory
+2. cd to the problem directory and run the script
 
 - Problem 3: PDA simulator
 
