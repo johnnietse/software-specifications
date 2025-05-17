@@ -97,3 +97,15 @@ Notes:
 - All scripts are self-contained with built-in test cases.
 - No additional files or setup needed.
 - Python 3.x required.
+
+---
+## Repository Structure
+
+Assignment1/
+├── q6/
+│   ├── main.py          # Email Validator
+│   └── test_cases.txt   # Optional test file
+├── q7/
+│   └── main.py          # DFA Simulator
+└── q8/
+    └── main.py          # FA Simulator
