@@ -14,9 +14,9 @@ This repository contains my solutions for **Assignment 1** and **Assignment 2** 
 ### **Assignment 1**
 - **Topics**: Regular languages, finite automata, NFA/DFA conversions.
 - **Key Problems**:
-  - Problem 1: Design a finite automaton for a specific string set.
-  - Problem 6: Email validator using state machines.
-  - Problem 8: FA simulator for string acceptance.
+  - Problem 6: Email validator using a state machine.
+  - Problem 7: DFA simulator for strings where the difference between a's and b's is ≤ 3.
+  - Problem 8: Finite automaton (FA) simulator that checks if an input string is accepted by a given FA.
 
 ### **Assignment 2**
 - **Topics**: Context-free grammars, PDAs, Turing machines.
@@ -30,8 +30,11 @@ This repository contains my solutions for **Assignment 1** and **Assignment 2** 
 ---
 
 ## 🚀 How to Run Code
-### For Problem 6 (Email Validator):
+### For Problem 6:
 1. Navigate to `Assignment1/q6/`.
 2. Run the script:
    ```bash
-   python email_validator.py < input.txt
+   python main.py
+
+
+
