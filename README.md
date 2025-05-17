@@ -44,7 +44,7 @@ git clone https://github.com/johnnietse/software-specifications.git
 i. Navigate to the problem directory:
 
 ```bash 
-cd Assignment2/q3/
+cd assignment-2/q3
 ```
 
 ii. Run the script:
@@ -58,7 +58,7 @@ python main.py
 i. Navigate to the problem directory:
 
 ```bash 
-cd Assignment1/q6/
+cd assignment-1/q6
 ```
 
 ii. Run the script:
@@ -71,7 +71,7 @@ python main.py
   
 i. Navigate to the problem directory:
 ```bash
-cd Assignment1/q7/
+cd assignment-1/q7
 ```
 
 ii. Run the script:
@@ -84,7 +84,7 @@ python main.py
 i. Navigate to the problem directory:
 
 ```bash
-cd Assignment1/q8/
+cd assignment-1/q8
 ```
 
 ii. Run the script:
@@ -101,11 +101,20 @@ Notes:
 ---
 ## Repository Structure
 
-Assignment1/
-├── q6/
-│   ├── main.py          # Email Validator
-│   └── test_cases.txt   # Optional test file
-├── q7/
-│   └── main.py          # DFA Simulator
-└── q8/
-    └── main.py          # FA Simulator
+```markdown
+software-specifications/
+├── assignment-1/
+│ ├── q6/
+│ │ ├── main.py # Email validator (Problem 6)
+│ │ └── README.md # Usage instructions
+│ ├── q7/
+│ │ ├── main.py # DFA simulator (Problem 7)
+│ │ └── README.md
+│ └── q8/
+│ ├── main.py # FA simulator (Problem 8)
+│ └── README.md
+└── assignment-2/
+└── q3/
+├── main.py # PDA simulator (Problem 3)
+└── README.md
+```
