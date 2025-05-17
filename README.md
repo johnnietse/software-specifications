@@ -20,18 +20,13 @@ This repository contains my solutions for **Assignment 1** and **Assignment 2** 
 
 ### **Assignment 2**
 - **Topics**: Context-free grammars, PDAs, Turing machines.
-- **Key Problems**:
-  - Problem 2: PDA for `L = {wcw^R}`.
+- **Key Problem**:
   - Problem 3: PDA simulator implementation.
-  - Problem 4: Turing machine design for `L = {wxw^R}`.
 
 ---
 
 ## 🛠 Tools & Languages
-- **Theory**: LaTeX (for proofs/diagrams) or handwritten solutions scanned to PDF.
-- **Programming**: Python (preferred), C/C++, or Java.
-- **Validation**: Test suites for automata simulators (e.g., `test_cases.txt`).
-
+- **Programming**: Python
 ---
 
 ## 🚀 How to Run Code
