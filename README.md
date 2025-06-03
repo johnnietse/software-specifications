@@ -104,17 +104,19 @@ Notes:
 ```markdown
 software-specifications/
 ├── assignment-1/
-│ ├── q6/
-│ │ ├── main.py # Email validator (Problem 6)
-│ │ └── README.md # Usage instructions
-│ ├── q7/
-│ │ ├── main.py # DFA simulator (Problem 7)
-│ │ └── README.md
-│ └── q8/
-│ ├── main.py # FA simulator (Problem 8)
-│ └── README.md
+│   ├── q6/
+│   │   ├── README.md # Usage instructions
+│   │   └── main.py # Email validator (Problem 6) 
+│   ├── q7/
+│   │   ├── README.md 
+│   │   └── main.py # DFA simulator (Problem 7)
+│   └── q8/
+│       ├── README.md
+│       └── main.py # FA simulator (Problem 8)
 └── assignment-2/
-└── q3/
-├── main.py # PDA simulator (Problem 3)
+│   └── q3/
+│       ├── README.md
+│       └── main.py # PDA simulator (Problem 3)
 └── README.md
+
 ```
