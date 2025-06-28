@@ -113,7 +113,7 @@ software-specifications/
 │   └── q8/
 │       ├── README.md
 │       └── main.py # FA simulator (Problem 8)
-└── assignment-2/
+├── assignment-2/
 │   └── q3/
 │       ├── README.md
 │       └── main.py # PDA simulator (Problem 3)
